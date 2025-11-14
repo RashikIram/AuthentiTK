@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821025920550",
+    "project_id": "authenti-tk",
+    "storage_bucket": "authenti-tk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821025920550:android:6f3b454e88fbb3efde38e7",
+        "android_client_info": {
+          "package_name": "com.example.authentitk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821025920550-p84kdrq7ulovk9cs8c24t6brs2egg2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnE8I-sRJrC0zhsgdJP-MPFSwX-xjV2Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821025920550-p84kdrq7ulovk9cs8c24t6brs2egg2el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
